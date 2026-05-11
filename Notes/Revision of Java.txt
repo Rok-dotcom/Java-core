@@ -1,1 +1,5 @@
 Revised up to page no 18 (installing jdk) - 15 sept 2025
+
+Revision from 10 May 2026:
+
+upto chapter 2: page no.53 : 10 May 2026
