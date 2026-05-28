@@ -23,13 +23,6 @@ public class  Vehicle {
         return this.modelName;
     }
 
-
-
-
-
-
-
-
 /*
     public static void main(String[] args){
         Vehicle car = new Vehicle("BMW",1000000,"red",7000,false);
