@@ -9,7 +9,7 @@ public class LeetCode_15_3sumProblem_try_2sum {
         List<List<Integer>> list = new ArrayList<>();
         HashMap<Integer,Integer> map = new HashMap<>();
         // use 2 for loops
-        for(int i=0 i<arr.length; i++){
+        for(int i=0; i<arr.length; i++){
             int comp = 0-arr[i];
             List<Integer> l = new ArrayList<>();
             if(map.containsKey(comp)){
