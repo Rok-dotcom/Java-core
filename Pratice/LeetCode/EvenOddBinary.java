@@ -22,11 +22,9 @@ public class EvenOddBinary {
         /*
         i wrote a logic in java for checking is num is odd or even like 2 & 1 == 0 return even else odd
 
-but i want  to know that 2's binary form is 10 and when we use & operator with this binary it should give 10 .
+        but i want  to know that 2's binary form is 10 and when we use & operator with this binary it should give 10 .
 
-my old logic was 2&1 != 2|0 return even else odd explain me this
-
-
+        my old logic was 2&1 != 2|0 return even else odd explain me this
          */
     }
 }
