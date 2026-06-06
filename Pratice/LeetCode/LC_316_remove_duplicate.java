@@ -4,7 +4,7 @@ public class LC_316_remove_duplicate {
     public static void main(String[] args){
 //        I have used 3 approaches on this problem
 /*
-after third method i got passes 231/290 cases now i going to apply prefix and suffix
+after third method I got passes 231/290 cases now I'm going to apply prefix and suffix
 approach;
 this below code passes 231/290 cases
  */
