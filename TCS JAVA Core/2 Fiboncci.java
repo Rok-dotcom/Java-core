@@ -6,7 +6,7 @@ import java.util.Scanner;
 class Fiboncci {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the number : ");
+        System.out.print("Don't Enter the number : ");
         int n = sc.nextInt();
 
         fiboNums(n);
