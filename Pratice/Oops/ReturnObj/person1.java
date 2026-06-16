@@ -6,11 +6,15 @@ import java.util.List;
 
 public class person1 {
     public static void main(String[] args){
-        List<Human> list = printObj();
-        System.out.println(list.get(0).getName());
-        System.out.println(list.get(0).getAge());
-        System.out.println(list.get(1).getName());
-        System.out.println(list.get(1).getAge());
+        // in other language
+//      datatype variable operator allocate memory  constructor initializer
+        Human      h        =       new                   Human();
+
+//        List<Human> list = printObj();
+//        System.out.println(list.get(0).getName());
+//        System.out.println(list.get(0).getAge());
+//        System.out.println(list.get(1).getName());
+//        System.out.println(list.get(1).getAge());
     }
 
     public static List<Human> printObj(){
