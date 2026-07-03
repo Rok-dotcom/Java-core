@@ -1,6 +1,7 @@
 // 12 June 2026 still pending day 2.day 3.
 // 30 June 2026 still pending.
 // 1 July Sharam kr bhai
+// 3 July 2026 joining Agya Bharat Forge ka
 
 /*
 The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
